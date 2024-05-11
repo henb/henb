@@ -26,9 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vadimhenb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadimhenb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/henb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="henb" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3267305/henb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="henb" height="30" width="40" /></a>
 <a href="https://medium.com/@proxyone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@proxyone" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/proxyonespace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="proxyonespace" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PROXYONESPACE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="proxyonespace" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
